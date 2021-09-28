@@ -15,4 +15,4 @@ In this site  i tried to show all the "Programming hero" contributor.
 
 # How you be benefited by this site?
 
-You can see all the hero of programming hero and you can take dicitions will you join "Programming hero" or not.
+You can see all the hero of "Programming hero" and you can take dicitions will you join "Programming hero" or not.
