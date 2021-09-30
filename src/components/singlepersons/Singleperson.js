@@ -4,11 +4,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
 const Singleperson = (props) => {
+    // getting data by props
     const { name, age, img, Homeland, presentLocation, Profession, Company, Salary } = props.person;
 
     // fontawesome icon 
     const icon = <FontAwesomeIcon icon={faShoppingCart} />;
     return (
+        // showing data on UI
         <div className="person-cart-style">
             <div className="person-height">
                 <img src={img} alt="Hero of Programming hero."/>
