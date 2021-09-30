@@ -1,0 +1,10 @@
+.person-container{
+    margin-left: 20px;
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.singleperson-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

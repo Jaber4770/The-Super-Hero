@@ -1,0 +1,25 @@
+.person-cart-style{
+    width: 280px;
+    margin: 15px;
+    padding:10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 3px gray;
+}
+.person-cart-style p{
+    line-height: 15px;
+}
+.person-cart-style img{
+    width: 200px;
+}
+.person-height{
+    height: 460px;
+}
+.button-style{
+    border-radius: 5px;
+    background-color: rgb(125, 71, 252);
+    color:white;
+    font-size: 18px;
+    font-weight: 600;
+    border:none;
+    width:260px;
+}
